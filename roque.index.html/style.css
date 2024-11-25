@@ -2,3 +2,8 @@ body {
     color:brown;
     background: black;
 }
+
+
+header {
+    border: solid 3px red;
+}
